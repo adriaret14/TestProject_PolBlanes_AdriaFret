@@ -9,7 +9,7 @@ int main()
 
 	using namespace std;
 
-	cout << "Hello Jagger";
+	cout << "Hello Bandit";
 
 
     return 0;
